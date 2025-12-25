@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0px;
     font-family: "Roboto", sans-serif;
   }
-`
+`;
 
 function App() {
   return (
